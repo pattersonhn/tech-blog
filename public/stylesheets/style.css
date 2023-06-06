@@ -81,7 +81,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0 1%;
-    background-color: maroon;
+    background-color: rgb(65, 74, 123);
     height: 150px;
   }
   
@@ -130,7 +130,7 @@
   }
   
   .delete-post-btn {
-    background-color: #d41414;
+    background-color: rgb(65, 74, 123);
   }
   
   .delete-post-btn:hover {
